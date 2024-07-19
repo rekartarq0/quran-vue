@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    direction: rtl;
+}
+
+@font-face {
+    font-family: "rabar21";
+    src: url("../assets/fonts/rabar21.ttf");
+    font-display: block;
+}
+@font-face {
+    font-family: "quran";
+    src: url("../assets/fonts/UthmanicHafs_v2-1.ttf");
+
+}
+@font-face {
+    font-family: "surahname";
+    src: url("../assets/fonts/sura_names.ttf");
+
+}
